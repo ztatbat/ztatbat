@@ -36,3 +36,5 @@
 <a href="https://github.com/ztatbat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztatbat&theme=light" alt="Most Used Languages"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztatbat)](https://github.com/anuraghazra/github-readme-stats)
