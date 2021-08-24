@@ -33,8 +33,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ztatbat&show_icons=true&theme=light&line_height=40" alt="ztatbat github stats"/>
 </a>
 
-<a href="https://github.com/ztatbat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztatbat&theme=light" alt="Most Used Languages"/>
+<a href="https://github.com/lamhidra-hamza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamhidra-hamza&theme=light" alt="Most Used Languages"/>
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztatbat)](https://github.com/ztatbat/github-readme-stats)
